@@ -1,4 +1,6 @@
 Number.prototype.startsWith = function (number) {
+  if (typeof (number) === undefined)
+    throw new TypeError('Required one parameter but no parameter found');
   let n = this.valueOf(),
     n1 = Math.floor(Math.log10(n)),
     n2 = Math.floor(Math.log10(number)),
@@ -10,6 +12,8 @@ Number.prototype.startsWith = function (number) {
 };
 
 Number.prototype.endsWith = function (number) {
+  if (typeof (number) === undefined)
+    throw new TypeError('Required one parameter but no parameter found');
   let n = this.valueOf(),
     m = Math.floor(Math.log10(number)),
     o = Math.floor(n / Math.pow(10, m + 1)) * Math.pow(10, m + 1);
@@ -19,6 +23,8 @@ Number.prototype.endsWith = function (number) {
 };
 
 Number.prototype.contains = function (number) {
+  if (typeof (number) === undefined)
+    throw new TypeError('Required one parameter but no parameter found');
   let n = this.valueOf(),
     n1 = Math.floor(Math.log10(n)),
     n2 = Math.floor(Math.log10(number));
