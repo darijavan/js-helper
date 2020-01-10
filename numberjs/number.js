@@ -16,4 +16,15 @@ Number.prototype.endsWith = function (number) {
 
   if (n - o == number) return true;
   return false;
-}
+};
+
+Number.prototype.contains = function (number) {
+  let n = this.valueOf(),
+    n1 = Math.floor(Math.log10(n)),
+    n2 = Math.floor(Math.log10(number));
+
+  for (let i = 0; i < n1; i += n2 + 1) {
+    // TODO
+  }
+  return false;
+};
