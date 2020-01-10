@@ -29,8 +29,9 @@ Number.prototype.contains = function (number) {
     n1 = Math.floor(Math.log10(n)),
     n2 = Math.floor(Math.log10(number));
 
-  for (let i = 0; i < n1; i += n2 + 1) {
-    // TODO
+  for (let i = 0; i < n1 - n2 + 1; i++) {
+    let a = Math.floor((n % Math.pow(10, n2 + i + 1)) / Math.pow(10, i));
+    if (a === number) return true;
   }
   return false;
 };
