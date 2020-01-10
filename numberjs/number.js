@@ -22,7 +22,7 @@ Number.prototype.endsWith = function (number) {
   return false;
 };
 
-Number.prototype.contains = function (number) {
+Number.prototype.containsDigit = function (number) {
   if (typeof (number) === undefined)
     throw new TypeError('Required one parameter but no parameter found');
   let n = this.valueOf(),
