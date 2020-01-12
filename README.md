@@ -5,7 +5,6 @@
     <img src="https://img.shields.io/github/last-commit/darijavan/js-helper.svg" target="_blank" />
   </a>
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/darijavan/js-helper">
-  <img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/darijavan/js-helper">
   <a href="https://github.com/darijavan/js-helper/issues?q=is%3Apr+is%3Aclosed">
     <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed-raw/darijavan/js-helper"> 
   </a>
