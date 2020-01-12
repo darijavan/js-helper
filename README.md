@@ -18,7 +18,7 @@
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/darijavan/js-helper">
   </a>
   <a href="https://github.com/darijavan/js-helper/blob/master/LICENSE">
-    <img alt="License: BSD" src="https://img.shields.io/badge/license-MIT-green.svg" target="_blank" />
+    <img alt="License: BSD" src="https://img.shields.io/badge/license-GNU-green.svg" target="_blank" />
   </a>
 </p>
 Repos for Javascript helpers
