@@ -1,24 +1,24 @@
 <h1 align="center">Welcome to js-helper 👋</h1>
 <h3 align="center">*** Work In Progress ***</h3>
 <p align="center">
-  <a href="https://github.com/tsirysndr/go-spotify/commits/master">
-    <img src="https://img.shields.io/github/last-commit/dairijavan/js-helper.svg" target="_blank" />
+  <a href="https://github.com/darijavan/js-helper/commits/master">
+    <img src="https://img.shields.io/github/last-commit/darijavan/js-helper.svg" target="_blank" />
   </a>
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/dairijavan/js-helper">
-  <img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/dairijavan/js-helper">
-  <a href="https://github.com/dairijavan/js-helper/issues?q=is%3Apr+is%3Aclosed">
-    <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed-raw/dairijavan/js-helper"> 
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/darijavan/js-helper">
+  <img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/darijavan/js-helper">
+  <a href="https://github.com/darijavan/js-helper/issues?q=is%3Apr+is%3Aclosed">
+    <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed-raw/darijavan/js-helper"> 
   </a>
-  <a href="https://github.com/dairijavan/js-helper/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/dairijavan/js-helper">
+  <a href="https://github.com/darijavan/js-helper/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/darijavan/js-helper">
   </a>
-  <a href="https://github.com/dairijavan/js-helper/issues">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/dairijavan/js-helper">
+  <a href="https://github.com/darijavan/js-helper/issues">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/darijavan/js-helper">
   </a>
-  <a href="https://github.com/dairijavan/js-helper/graphs/contributors">
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/dairijavan/js-helper">
+  <a href="https://github.com/darijavan/js-helper/graphs/contributors">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/darijavan/js-helper">
   </a>
-  <a href="https://github.com/dairijavan/js-helper/blob/master/LICENSE">
+  <a href="https://github.com/darijavan/js-helper/blob/master/LICENSE">
     <img alt="License: BSD" src="https://img.shields.io/badge/license-MIT-green.svg" target="_blank" />
   </a>
 </p>
