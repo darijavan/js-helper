@@ -1,0 +1,18 @@
+{
+  "name": "js-helper",
+  "version": "0.1.0",
+  "description": "<h1 align=\"center\">Welcome to js-helper 👋</h1>\r <h3 align=\"center\">*** Work In Progress ***</h3>\r <p align=\"center\">\r   <a href=\"https://github.com/darijavan/js-helper/commits/master\">\r     <img src=\"https://img.shields.io/github/last-commit/darijavan/js-helper.svg\" target=\"_blank\" />\r   </a>\r   <img alt=\"GitHub code size in bytes\" src=\"https://img.shields.io/github/languages/code-size/darijavan/js-helper\">\r   <a href=\"https://github.com/darijavan/js-helper/issues?q=is%3Apr+is%3Aclosed\">\r     <img alt=\"GitHub closed pull requests\" src=\"https://img.shields.io/github/issues-pr-closed-raw/darijavan/js-helper\"> \r   </a>\r   <a href=\"https://github.com/darijavan/js-helper/pulls\">\r     <img alt=\"GitHub pull requests\" src=\"https://img.shields.io/github/issues-pr/darijavan/js-helper\">\r   </a>\r   <a href=\"https://github.com/darijavan/js-helper/issues\">\r     <img alt=\"GitHub issues\" src=\"https://img.shields.io/github/issues/darijavan/js-helper\">\r   </a>\r   <a href=\"https://github.com/darijavan/js-helper/graphs/contributors\">\r     <img alt=\"GitHub contributors\" src=\"https://img.shields.io/github/contributors/darijavan/js-helper\">\r   </a>\r   <a href=\"https://github.com/darijavan/js-helper/blob/master/LICENSE\">\r     <img alt=\"License: BSD\" src=\"https://img.shields.io/badge/license-GNU-green.svg\" target=\"_blank\" />\r   </a>\r </p>\r Repos for Javascript helpers",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darijavan/js-helper.git"
+  },
+  "keywords": [],
+  "author": "Hajanirina Ridjvan Randrianandraina <darijavan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darijavan/js-helper/issues"
+  },
+  "homepage": "https://github.com/darijavan/js-helper#readme"
+}
